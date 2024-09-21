@@ -1,0 +1,13 @@
+{
+  "name": "express-boilerplate",
+  "private": true,
+  "version": "0.1.0",
+  "author": "Erik Larson",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "main": "dist-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
