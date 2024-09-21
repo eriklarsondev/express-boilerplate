@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "author": "Erik Larson",
-  "description": "",
+  "description": "Scaffolding for a custom Express server",
   "keywords": [],
   "license": "MIT",
   "main": "dist-server/index.js",
